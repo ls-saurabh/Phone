@@ -50,7 +50,7 @@ body{
 
 
 
-/* top cam area */
+/* top cam area -start */
 
 
 .top{
@@ -71,7 +71,7 @@ color: lightgrey;
     background-color: rgb(0, 4, 8);
 }
 
-/* top cam area */
+/* top cam area -end */
 
 .time{
     color: black;
